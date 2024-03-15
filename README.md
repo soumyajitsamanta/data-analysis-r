@@ -63,6 +63,12 @@ Thus we conclude that day with numeric value 1 here which is Friday is most of t
 ## Build using CMD:
 
 ```sh
+R CMD BATCH StockAnalysis.r
+```
+
+or
+
+```sh
 Rscript StockAnalysis.r
 ```
 
